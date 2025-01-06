@@ -15,9 +15,34 @@ The objective of this project is to create a dynamic and interactive web-based r
   ```bash
   git clone https://github.com/Bharathyalagi/Resume_using_ReactJS/tree/main
   ```
-- 
-  ```bash
-  ```
+### OR
+I will tell u in simple way 
+- you should have node.js installed and react in your system
+- create a folder Resume
+- paste all these above folders and files in that Resume folder
+- then open these stuff in VS CODE or some other tool as your comfortable
+- then install node modules
+``` bash
+npm install
+```
+- in terminal check the version of npm and npx
+``` bash
+npx -v
+npm -v
+```
+- go the directory in terminal
+for ex: you have to give (cd Resume) to get in that folder
+``` bash
+D:\React Project\Resume>
+```
+- in my project/app it is old version of react , so
+``` bash
+$env:NODE_OPTIONS="--openssl-legacy-provider
+```
+- start the development server
+``` bash
+npm start
+```
 
 
   
