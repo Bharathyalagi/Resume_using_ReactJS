@@ -12,17 +12,9 @@ The objective of this project is to create a dynamic and interactive web-based r
 
 ### How to Run 
 - Clone the Repository:
-  git clone https://github.com/<your-username>/<repository-name>.git
-  Clone the Repository:
+	  ```git clone https://github.com/Bharathyalagi/Resume_using_ReactJS
+  
 
-bash
-Copy code
-git clone https://github.com/<your-username>/<repository-name>.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd <repository-name>
 
 
 
